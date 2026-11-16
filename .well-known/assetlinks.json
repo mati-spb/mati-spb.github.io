@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.matispb.better",
+    "sha256_cert_fingerprints": ["99:64:DA:12:13:BF:7B:3D:88:81:4E:38:3E:70:A1:7D:EC:6C:AD:3A:D9:67:DD:7E:87:D0:2B:C6:92:6D:69:76"]
+  }
+}]
